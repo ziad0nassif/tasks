@@ -10,3 +10,6 @@
 [submodule "Task-3"]
 	path = Task-3
 	url = https://github.com/ziad0nassif/3d-anatomy-organs-puzzle
+[submodule "Midterm"]
+	path = Midterm
+	url = https://github.com/ziad0nassif/Revolutionary-X-Ray-Imaging-Technology
