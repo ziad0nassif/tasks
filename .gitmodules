@@ -13,3 +13,6 @@
 [submodule "Midterm"]
 	path = Midterm
 	url = https://github.com/ziad0nassif/Revolutionary-X-Ray-Imaging-Technology
+[submodule "Task-4"]
+	path = Task-4
+	url = https://github.com/ziad0nassif/dicom-viewer
