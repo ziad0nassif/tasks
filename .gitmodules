@@ -16,3 +16,6 @@
 [submodule "Task-4"]
 	path = Task-4
 	url = https://github.com/ziad0nassif/dicom-viewer
+[submodule "Task-5"]
+	path = Task-5
+	url = https://github.com/ziad0nassif/image-quality-viewer
